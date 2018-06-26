@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/EmirKayaZ/T.r.Z.o.n.e/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/fenerzone/fbzonemap/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
@@ -55,14 +55,20 @@ window.addEventListener('load', function () {
     var div = document.createElement('div');
     div.setAttribute('class', 'post block bc2');
     div.innerHTML = '<div id="minimapbg" style="position: absolute; right: 1em; bottom: 1em;">' +
-        '<div class="posy" id="posyt" style="background-color: rgba(0, 0, 0, 0.75); color: rgb(250, 250, 250); text-align: center; line-height: 42px; vertical-align: middle; width: auto; height: auto; border-radius: 21px; padding: 6px;">' +
+        '<div class="posy" id="posyt" style="background-color: rgba(0, 0, 0, 0.75); color: rgb(255, 255, 255); text-align: center; line-height: 42px; vertical-align: middle; width: auto; height: auto; border-radius: 21px; padding: 6px;">' +
         '<div id="minimap-text" style="display: none;"></div>' +
         '<div id="minimap-box" style="position: relative;width:420px;height:300px">' +
         '<canvas id="minimap" style="width: 100%; height: 100%;z-index:1;position:absolute;top:0;left:0;"></canvas>' +
         '<canvas id="minimap-board" style="width: 100%; height: 100%;z-index:2;position:absolute;top:0;left:0;"></canvas>' +
         '<canvas id="minimap-cursor" style="width: 100%; height: 100%;z-index:3;position:absolute;top:0;left:0;"></canvas>' +
         '</div><div id="minimap-config" style="line-height:20px;">' +
-        '<span id="hide-map" style="cursor:pointer;">Discord.io/TrZone' +
+        '<span id="hide-map" style="cursor:pointer;color:white"> https://discord.io/TrZone' +
+
+        '</span>  <span id="follow-mouse" style="cursor:pointer;">' +
+        '</span>   <span id="zoom-plus" style="cursor:pointer;font-weight:bold;"></span>   ' +
+        '<span id="zoom-minus" style="cursor:pointer;font-weight:bold;"></span>' +
+        '</div>' +
+        '</div>';
     document.body.appendChild(div);
     minimap = document.getElementById("minimap");
     minimap_board = document.getElementById("minimap-board");
@@ -275,7 +281,7 @@ function loadTemplates() {
         if (zooming_in == false && zooming_out == false) {
             document.getElementById("minimap-box").style.display = "none";
             document.getElementById("minimap-text").style.display = "block";
-            document.getElementById("minimap-text").innerHTML = "Herhangi bir şablon bulunamadı.";
+            document.getElementById("minimap-text").innerHTML = "Burada Şablon Bulunamadı";
         }
     } else {
         document.getElementById("minimap-box").style.display = "block";
