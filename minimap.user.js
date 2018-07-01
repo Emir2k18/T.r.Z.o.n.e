@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/fenerzone/fbzonemap/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/EmirKayaZ/T.r.Z.o.n.e/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
