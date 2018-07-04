@@ -41,13 +41,6 @@
     "width": 147,
     "height": 147
    },
-    "TurkeyPlan": {
-    "name": "TurkeyPlan.png",
-    "x": 701,
-    "y": -420,
-    "width": 161,
-    "height": 196
-   },
     "Fenerbahce": {
     "name": "fenerbahcelogo.png",
     "x":  1036,
@@ -85,9 +78,9 @@
    },
   "CentralTurkeyFlag": {
     "name": "CentralTurkeyFlag.png",
-    "x": 862,
+    "x": 812,
     "y": -505,
-    "width": 327,
-    "height": 217
+    "width": 377,
+    "height": 279
   }
 }
