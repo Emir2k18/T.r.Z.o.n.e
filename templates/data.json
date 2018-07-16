@@ -96,5 +96,12 @@
     "y": -505,
     "width": 286,
     "height": 171
+  },
+  "Turkiye": {
+    "name": "Turkiye.png",
+    "x": -4096,
+    "y": 3295,
+    "width": 1307,
+    "height": 802
   }
 }
