@@ -20,13 +20,6 @@
     "width": 200,
     "height": 200
    },
-    "Vm1": {
-    "name": "vm1.png",
-    "x": -1432,
-    "y":  3295,
-    "width": 202,
-    "height": 256
-   },
     "15Temmuz": {
     "name": "15Temmuz.png",
     "x": 1142,
@@ -110,20 +103,6 @@
     "y": 159,
     "width": 550,
     "height": 90
-},
-  "Resulzade": {
-    "name": "Resulzade.png",
-    "x": -2281,
-    "y": 3136,
-    "width": 80,
-    "height": 82
-},
-  "AzeXerite": {
-    "name": "AzeXerite.png",
-    "x": -2524,
-    "y": 2981,
-    "width": 290,
-    "height": 235
 },
   "Azerbaycan2": {
     "name": "Azerbaycan2.png",
