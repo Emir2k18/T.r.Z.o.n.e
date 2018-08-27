@@ -139,6 +139,20 @@
     "width": 522,
     "height": 75
 },
+  "SancakBayrak": {
+    "name": "sancakbayrak.png",
+    "x": -4000,
+    "y": 2400,
+    "width": 275,
+    "height": 183
+  },
+  "SancakLink": {
+    "name": "sancakbayrak.png",
+    "x": -4000,
+    "y": 2370,
+    "width": 375,
+    "height": 75
+},
   "TSK": {
     "name": "tsk.png",
     "x": 1071,
