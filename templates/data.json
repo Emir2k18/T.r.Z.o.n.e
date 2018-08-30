@@ -159,5 +159,12 @@
     "y": -233,
     "width": 249,
     "height": 183
+},
+  "Plan": {
+    "name": "plan-1.png",
+    "x": 701,
+    "y": -505,
+    "width": 111,
+    "height": 283
 }
 }
