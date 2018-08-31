@@ -13,12 +13,12 @@
     "width": 190,
     "height": 107
    },
-      "NameTr": {
-    "name": "NameTr.png",
+      "Fenerbahce": {
+    "name": "template-21.png",
     "x": 1481,
-    "y": -345,
-    "width": 107,
-    "height": 20
+    "y": -505,
+    "width": 176,
+    "height": 247
    },
     "Ataturk": {
     "name": "TrArmyAtaturk.png",
@@ -166,5 +166,12 @@
     "y": -505,
     "width": 111,
     "height": 283
+},
+  "Trabzone": {
+    "name": "trabzone.png",
+    "x": 1002,
+    "y": 610,
+    "width": 70,
+    "height": 99
 }
 }
