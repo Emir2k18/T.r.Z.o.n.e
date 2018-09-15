@@ -173,5 +173,12 @@
     "y": 610,
     "width": 70,
     "height": 99
+},
+  "FOTC": {
+    "name": "fotc.png",
+    "x": 941,
+    "y": -855,
+    "width": 177,
+    "height": 139,
 }
 }
