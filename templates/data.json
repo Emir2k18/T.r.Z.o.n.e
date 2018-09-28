@@ -180,12 +180,12 @@
     "y": -855,
     "width": 177,
     "height": 139
-  },
+},
    "PixelZoneTr" {
     "name": "pixelzonetr.png",
     "x": 3114,
     "y": -1280,
     "width": 97,
     "height": 57
-    }
+   }
 }
