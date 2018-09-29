@@ -19,6 +19,13 @@
     "y": -505,
     "width": 176,
     "height": 247
+   }, 
+       "SDLG": {
+     "name": "sdlg.png",
+     "x": -307,
+     "y": -607,
+     "width": 154,
+     "height" 115
    },
     "Ataturk": {
     "name": "TrArmyAtaturk.png",
