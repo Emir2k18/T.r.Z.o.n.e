@@ -20,12 +20,12 @@
     "width": 176,
     "height": 247
    }, 
-       "SDLG": {
-     "name": "sdlg.png",
-     "x": -306,
-     "y": -673,
-     "width": 154,
-     "height": 115
+       "NaziZone": {
+     "name": "swastika.png",
+     "x": -357,
+     "y": -672,
+     "width": 350,
+     "height": 220
    },
     "Ataturk": {
     "name": "TrArmyAtaturk.png",
