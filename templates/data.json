@@ -21,11 +21,11 @@
     "height": 247
    }, 
        "NaziZone": {
-     "name": "swastika.png",
+     "name": "nazii.png",
      "x": -357,
      "y": -672,
-     "width": 350,
-     "height": 220
+     "width": 353,
+     "height": 225
    },
     "Ataturk": {
     "name": "TrArmyAtaturk.png",
@@ -166,33 +166,5 @@
     "y": -233,
     "width": 249,
     "height": 183
-},
-  "TrVoid": {
-    "name": "trvoid.png",
-    "x": 701,
-    "y": -507,
-    "width": 111,
-    "height": 283
-},
-  "Trabzone": {
-    "name": "trabzone.png",
-    "x": 1002,
-    "y": 610,
-    "width": 70,
-    "height": 99
-},
-  "FOTC": {
-    "name": "fotc.png",
-    "x": 941,
-    "y": -855,
-    "width": 177,
-    "height": 139
-},
-  "PixelZoneTr": {
-    "name": "pixelzonetr.png",
-    "x": 3114,
-    "y": -1280,
-    "width": 97,
-    "height": 57
   }
 }
